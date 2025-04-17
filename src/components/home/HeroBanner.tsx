@@ -19,7 +19,7 @@ export function HeroBanner() {
               <Button size="lg" asChild className="bg-white text-primary hover:bg-white/90">
                 <Link to="/categories">Shop Now</Link>
               </Button>
-              <Button size="lg" variant="outline" asChild className="border-white text-white hover:bg-white hover:text-primary">
+              <Button size="lg" variant="outline" asChild className="border-white text-primary hover:bg-white/90">
                 <Link to="/sell">Start Selling</Link>
               </Button>
             </div>
